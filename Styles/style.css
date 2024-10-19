@@ -108,6 +108,7 @@ ul>li>a{
     border: 1px solid #FFFFFF;
     border-radius: 20px;
     padding: 15px 36px;
+    background-color: transparent; 
 } 
 .btn4{
     color: #FFFFFF;
